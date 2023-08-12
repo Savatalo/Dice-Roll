@@ -31,7 +31,11 @@ body {
 
 #roll-list{
     list-style: none;
-    font-size: 80px;
     margin: 0;
-    display: block;
+}
+
+li {
+    margin: 0;
+    font-size: 20px;
+    background-color: aqua;
 }
