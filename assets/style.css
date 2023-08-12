@@ -1,0 +1,30 @@
+body {
+    font-family: monospace;
+}
+
+.main {
+    text-align: center;
+    padding-top: 160px;
+}
+
+.title {
+    margin: 0;
+}
+
+#roll-dice-btn {
+    padding: 10px;
+    border-color: aqua;
+    background-color: white;
+    transition: 1s;
+    border-radius: 1em;
+}
+
+#roll-dice-btn:hover {
+    transition: 1s;
+    background-color: aqua;
+}
+
+#dice {
+    font-size: 80px;
+    margin: 0;
+}
