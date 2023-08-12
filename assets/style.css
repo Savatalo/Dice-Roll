@@ -28,3 +28,10 @@ body {
     font-size: 80px;
     margin: 0;
 }
+
+#roll-list{
+    list-style: none;
+    font-size: 80px;
+    margin: 0;
+    display: block;
+}
